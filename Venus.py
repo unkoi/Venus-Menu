@@ -1,5 +1,3 @@
-//venus released
-
 (() => {
     let n = document.createElement('iframe');
     document.body.append(n);

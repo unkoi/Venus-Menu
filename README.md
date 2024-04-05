@@ -8,6 +8,6 @@ Or press ctrl+shift+I
 
 then paste in code from Venus.py
 
-Then use the menu also yes i am Reaper_V2 and reaper i just forgot to change it, it use to be my old blooket name.
+Then use the menu also yes i am unkoi duh.
 
 Also if theres any issues use ISSUE-TEMPLATE

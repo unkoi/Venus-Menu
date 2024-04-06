@@ -15,3 +15,11 @@ Also if theres any issues use ISSUE-TEMPLATE
 
 https://github.com/unkoi/Venus-Menu/assets/166161620/823f0688-a21f-457c-ab7d-29defdb5c439
 
+
+
+And if in the console it says "Want to allow pasting?" type in yes and press enter then paste Venus.py into the console again!
+
+
+
+See credits for info. =]
+

@@ -151,7 +151,7 @@ details summary ~ * {
     bodyDiv.appendChild(footer);
     footer.style.fontSize = '0.9rem';
     footer.style.paddingBottom = '5px';
-    footer.innerHTML = (`<span>GUI by reaper_V2<br>Cheats by <a style="color: darkred" href="https://youtube.com/user/@koz_7">reaper_V1</a></span>`);
+    footer.innerHTML = (`<span>GUI by unkoi / Nathan Greenwood<br>Cheats by <a style="color: darkred" href="https://youtube.com/@aspen7">unkoi</a></span>`);
 
     var getValues = () => new Promise((e, t) => {
         try {

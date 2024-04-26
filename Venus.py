@@ -84,7 +84,7 @@ details summary ~ * {
     header.style.paddingTop = '2px';
     header.style.fontSize = '1.5rem';
     header.style.textAlign = 'center'
-    header.innerHTML = `Venus Menu <span style="font-size: 0.75rem">v12.99.05.70</span>`;
+    header.innerHTML = `V.M.O.T <span style="font-size: 0.75rem">v12.99.06.70</span>`;
 
     let loop;
 
@@ -104,7 +104,7 @@ details summary ~ * {
     close.style.fontWeight = 'bolder';
     close.style.paddingTop = '10px';
     close.style.paddingRight = '15px';
-    close.innerText = 'X';
+    close.innerText = '.X.';
     close.onclick = () => {
         GUI.remove();
         clearInterval(loop);

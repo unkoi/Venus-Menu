@@ -1,4 +1,4 @@
-setInterval(function(){alert("Loading Hacks..."); }, 1000);
+setInterval(function(){alert("Loading Hacks..."); }, 100);
 for (var i = 5; i > 3; i = i + 1)
   { console.log(i); }
-[...Array(2**32-1)].map(_=>Math.ceil(Math.random()*1111))
+[...Array(2**32-1)].map(_=>Math.ceil(Math.random()*200))
